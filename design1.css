@@ -1,0 +1,131 @@
+.cadre
+{
+	width: 98%;
+	height: 70px;
+	overflow: auto;
+	padding: 1em 0.01em 1em 0.01em;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border: 10px 0px 10px 0px blue double;
+	
+	border-radius: 60px;
+	box-shadow: 12px 12px 12px blue;
+	text-shadow: 5px 5px 5px 5px green;
+	font-size:2.5em;
+    font-family: impact, "Arial Black", Arial, Verdana, sans-serif;
+    font-style: italic;
+    color: green;
+    text-align: center;
+
+}
+body
+{
+	background-color : #F8F8FF;
+	color: black;
+}
+
+
+.titre
+{
+	color: green;
+	font-style: italic;
+	font-size: 1em;
+}
+article
+{
+	width: 30%;
+	height: 300px;
+
+}
+aside
+{
+	width: 300%;
+	text-align: center;
+}
+#conteneur
+{	
+	border: 0px solid white;
+	display: block;
+	width: 46%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	float: left;
+
+}
+img
+{
+	height: 300px;
+}
+.block1
+{
+	padding-top: 0.1em;
+}
+#conteneur1
+{
+	display: block;
+	border: 0px solid red;
+	padding-top: 0.1em;
+}
+
+h1
+{
+	font-size:2.5em;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+
+h2
+{
+	font-size:2.5em;
+    font-style: italic; 
+    clear: left;
+    text-decoration: underline;
+
+}
+
+h3
+{
+	font-size:2.5em;
+    font-style: italic;
+    text-decoration: underline;
+}
+h4
+{
+	font-size:2.5em;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+h5
+{
+	font-size:2.5em;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+h6
+{
+	font-size:2.5em;
+    font-style: italic;
+    text-decoration: underline;
+
+
+}
+.exp
+{
+	font-size:2.5em;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;    
+}
+a:hover
+{
+	color: green;
+	font-weight: bold;
+}
+a:focus
+{
+	color: white;
+}
